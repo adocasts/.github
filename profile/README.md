@@ -1,7 +1,8 @@
 # Welcome To The Adocasts GitHub 👋
-Adocasts provides educational lessons, screencasts, and livestreams on AdonisJS, NodeJS, JavaScript and more. We currently amassed over 24 hours worth of educational content, and it's expanding every week!
+Adocasts provides educational lessons, screencasts, and livestreams on AdonisJS, NodeJS, JavaScript and more. We currently amassed over 24 hours worth of educational content, all provided for free, and our collection expands every week!
 
-Ready to learn? [Check out adocasts.com](https://adocasts.com)
+📚 Ready to learn? [Check out adocasts.com](https://adocasts.com)  
+🎉 New lessons, every Sunday at 9AM EST, 1PM UTC, 2PM GMT
 
 ---
 
