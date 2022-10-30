@@ -9,7 +9,7 @@ Adocasts provides educational lessons, screencasts, and livestreams on AdonisJS,
 ### Some of Our Series
  Adocasts series are collections of lessons spanning multiple topics with a common theme 
 - [Let's Learn AdonisJS 5](https://adocasts.com/series/lets-learn-adonisjs-5)  
-- [donisJS Quick Tips](https://adocasts.com/series/adonisjs-quick-tip)  
+- [AdonisJS Quick Tips](https://adocasts.com/series/adonisjs-quick-tip)  
 - [AdonisJS Bouncer](https://adocasts.com/series/adonisjs-bouncer)  
 - [AdonisJS + InertiaJS](https://adocasts.com/series/adonisjs-inertiajs)
 - [Browse All Series](https://adocasts.com/series)
