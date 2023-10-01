@@ -1,8 +1,11 @@
-# Welcome To The Adocasts GitHub 👋
-Adocasts provides educational lessons, screencasts, and livestreams on AdonisJS, NodeJS, JavaScript and more. We currently amassed over 24 hours worth of educational content, all provided for free, and our collection expands every week!
+![Adocasts](https://github.com/adocasts/.github/blob/main/assets/brand-banner-rounded.png?raw=true)
+
+Adocasts provides education lessons, screencasts, and livestreams on AdonisJS, NodeJS, JavaScript, and more. We have a vast library of free lessons and resources that expands weekly to help get you up and running with AdonisJS. 
+
+Get even more by joining Adocasts+ (coming soon)
 
 📚 Ready to learn? [Check out adocasts.com](https://adocasts.com)  
-🎉 New lessons every Sunday at 9AM EST, 1PM UTC, 2PM GMT
+🎉 New lessons every week!
 
 ---
 
