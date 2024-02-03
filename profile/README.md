@@ -2,7 +2,7 @@
 
 Adocasts provides education lessons, screencasts, and livestreams on AdonisJS, NodeJS, JavaScript, and more. We have a vast library of free lessons and resources that expands weekly to help get you up and running with AdonisJS. 
 
-Get even more by joining Adocasts+ (coming soon)
+Get even more by joining [Adocasts Plus](https://adocasts.com/pricing)
 
 📚 Ready to learn? [Check out adocasts.com](https://adocasts.com)  
 🎉 New lessons every week!
@@ -11,6 +11,7 @@ Get even more by joining Adocasts+ (coming soon)
 
 ### Some of Our Series
  Adocasts series are collections of lessons spanning multiple topics with a common theme 
+- [Let's Learn AdonisJS 6](https://adocasts.com/series/lets-learn-adonisjs-6)
 - [Let's Learn AdonisJS 5](https://adocasts.com/series/lets-learn-adonisjs-5)  
 - [AdonisJS Quick Tips](https://adocasts.com/series/adonisjs-quick-tip)  
 - [AdonisJS Bouncer](https://adocasts.com/series/adonisjs-bouncer)  
