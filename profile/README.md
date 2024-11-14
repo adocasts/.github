@@ -8,8 +8,8 @@ Adocasts provides education lessons, screencasts, and livestreams on AdonisJS, N
 
 ---
 
-### Some of Our Series
- Adocasts series are collections of lessons spanning multiple topics with a common theme 
+### Some of our series
+Adocasts series are collections of lessons spanning multiple topics with a common theme 
 - [Let's Learn AdonisJS 6](https://adocasts.com/series/lets-learn-adonisjs-6)
 - [AdonisJS in 30](https://adocasts.com/series/adonisjs-in-15)
 - [Building with AdonisJS & Inertia](https://adocasts.com/series/building-with-inertiajs)
@@ -17,6 +17,14 @@ Adocasts provides education lessons, screencasts, and livestreams on AdonisJS, N
 - [AdonisJS Bouncer](https://adocasts.com/series/adonisjs-bouncer)
 - [HTMX & AdonisJS Filters](https://adocasts.com/series/htmx-and-adonisjs-filters)
 - [Browse All Series](https://adocasts.com/series)
+
+---
+
+### Some of our packages
+- [Jumpstart](https://github.com/adocasts/jumpstart) - AdonisJS 6 auth, password reset, email history, & tailwind scaffolding
+- [Dto](https://github.com/adocasts/package-dto) - Generate DTOs from your Lucid models
+- [Generate Models](https://github.com/adocasts/generate-models) - Generate Lucid models from an existing database
+- [Actions](https://github.com/adocasts/package-actions) - Make actions via the Ace CLI
 
 ---
 [![YouTube Badge](https://img.shields.io/youtube/channel/subscribers/UCTEKX3KQAJi7_0-_rSz0Edg?logo=YouTube&style=for-the-badge)](https://youtube.com/adocasts)
